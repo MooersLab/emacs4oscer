@@ -4,6 +4,7 @@ This conifguration file has number of features including line numbers, syntax hi
 It also supports writing in LaTeX via the AUCTeX package.
 It uses Prot's EF-themes package by default.
 It works on Schooner as of September 2022 with Emacs version 28.2. 
+
 I installed the latter via anaconda in my home directory.
 The default version of Emacs on Schooner is too old to support the current version of yasnippets.
 
