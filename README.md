@@ -1,4 +1,4 @@
-# Emacs configuration file for the Schooner Supercomputer at OSCER, University of Oklahoma
+# Emacs init.el for the Schooner Supercomputer at the University of Oklahoma
 
 This conifguration file has number of features including line numbers, syntax highlighting, and support for code snippets.
 It also supports writing in LaTeX via the AUCTeX package.
