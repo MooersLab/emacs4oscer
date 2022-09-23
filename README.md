@@ -10,3 +10,12 @@ The default version of Emacs on Schooner is too old to support the current versi
 
 The default storage site for this file is `~/.emacs.d/init.el`.
 Edit the path in near the top of init.el if you use a different location.
+
+The file has three sections:
+
+- Configuration for the *package* package and the repositories of packages.
+- Basic configuration without extra packages.
+- Configuration of specific packages listed in alphabetical order.
+
+I store my manually installed packages (e.g., git cloned from GitHub repos) in `~/.emacs.d/elisp`.
+I store my snippets in `~/.emacs.d/snippets`.
