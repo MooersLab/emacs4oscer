@@ -13,7 +13,7 @@ The default version of Emacs on Schooner is too old to support the current versi
 ## .emacs.d
 
 The default storage site for this file is `~/.emacs.d/init.el`.
-Edit the path in near the top of init.el if you use a different location.
+Edit the path in near the top of *init.el* if you use a different location.
 
 ## Organization of init.el
 
