@@ -8,7 +8,7 @@
 
 This configuration file has several features, including line numbers, syntax highlighting, and support for code snippets.
 It also supports writing in LaTeX via the AUCTeX package.
-It uses Prot's EF-themes package by default.
+It uses Prot's (aka Protesilaos Stavrou) beautiful EF-themes package.
 
 ## Why use this approach
 
